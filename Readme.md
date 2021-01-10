@@ -1,6 +1,6 @@
 # Учебный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
-* Студент: [Надежда Комарицкая](https://up.htmlacademy.ru/react/5/user/644051).
+* Студент: [Василий Шабанов](https://up.htmlacademy.ru/react/5/user/644051).
 * Наставник: `Неизвестно`.
 
 ---
